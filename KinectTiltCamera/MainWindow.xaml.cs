@@ -15,9 +15,6 @@ using Microsoft.Kinect;
 
 namespace KinectTiltCamera
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         KinectSensor _sensor;
