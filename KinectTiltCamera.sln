@@ -1,20 +1,31 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectTiltCamera", "KinectTiltCamera\KinectTiltCamera.csproj", "{736DA2EB-F8C4-4266-916C-0FCD6647FC0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{736DA2EB-F8C4-4266-916C-0FCD6647FC0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736DA2EB-F8C4-4266-916C-0FCD6647FC0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{736DA2EB-F8C4-4266-916C-0FCD6647FC0B}.Debug|x86.ActiveCfg = Debug|x86
 		{736DA2EB-F8C4-4266-916C-0FCD6647FC0B}.Debug|x86.Build.0 = Debug|x86
+		{736DA2EB-F8C4-4266-916C-0FCD6647FC0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736DA2EB-F8C4-4266-916C-0FCD6647FC0B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{736DA2EB-F8C4-4266-916C-0FCD6647FC0B}.Release|x86.ActiveCfg = Release|x86
 		{736DA2EB-F8C4-4266-916C-0FCD6647FC0B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5002B49-D6A1-4913-A2C3-5911E3E1133F}
 	EndGlobalSection
 EndGlobal
